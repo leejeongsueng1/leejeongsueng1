@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning on React <img style="height:1em" src="https://simpleicons.org/icons/react.svg"/>
+- 🔭 I’m currently learning on React ![Static Badge](https://img.shields.io/badge/React?logo=https%3A%2F%2Fsimpleicons.org%2Ficons%2Freact.svg&logoColor=%2361DAFB)
 - 🌱 I’m currently learning Machine Vision
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
