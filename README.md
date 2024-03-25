@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning on React <img style="height:10px" src="https://simpleicons.org/icons/react.svg"/>
+- 🔭 I’m currently learning on React <img style="height: 20px" src="https://simpleicons.org/icons/react.svg"/>
 - 🌱 I’m currently learning Machine Vision
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
